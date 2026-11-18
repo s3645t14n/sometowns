@@ -1,0 +1,11 @@
+﻿{
+  "name": "diskworld",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "description": "Diskworld - browser-based tile sandbox prototype",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node --watch server/server.js"
+  }
+}
